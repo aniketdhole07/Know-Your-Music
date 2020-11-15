@@ -2,6 +2,7 @@
 An App to Classify your Music Genre using Machine Learning 
 
 Input: Any Music File in mp3 format
+
 Output Gernes : blues, classical, country, disco, hiphop, jazz, metal, pop, reggae, rock
 
 Colab Notebook:
